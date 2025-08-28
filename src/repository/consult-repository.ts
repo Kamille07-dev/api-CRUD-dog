@@ -1,6 +1,6 @@
 import { consultModel } from "../models/consulta-model";
 
-export const consultaDatabase: consultModel[] = [
+export const consultasDatabase: consultModel[] = [
   {
     idConsulta: 1,
     idCachorro: 1,
